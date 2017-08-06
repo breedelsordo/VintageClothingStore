@@ -887,7 +887,7 @@ body {
 
 @media (min-width: 1200px) {
 .locations-grid {
-	width: 1400px;
+	width: 100%;
 }
 }
 /* Slideshow */
@@ -933,3 +933,9 @@ body {
 		
 	}
 }
+
+.locations-padding {
+	padding: none !important;
+	margin: none !important;
+}
+
